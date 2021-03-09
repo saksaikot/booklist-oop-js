@@ -1,0 +1,12 @@
+.alert {
+  color: aliceblue;
+  padding: 10px;
+  margin: 10px 0;
+  height: 2.2rem;
+}
+.success {
+  background-color: rgb(0, 133, 22);
+}
+.danger {
+  background-color: rgb(248, 115, 7);
+}
