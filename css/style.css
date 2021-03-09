@@ -10,3 +10,6 @@
 .danger {
   background-color: rgb(248, 115, 7);
 }
+a {
+  text-decoration: none;
+}
